@@ -1,5 +1,6 @@
-### Hi there 👋
+# Rajat Soni
 
+### Hi there 👋
 My name is :sparkles:**Rajat**:sparkles: & I'm a Software Engineer.
 
 <!-- **rajat-on-github/rajat-on-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
