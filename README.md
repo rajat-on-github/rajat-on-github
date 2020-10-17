@@ -13,4 +13,4 @@ My name is :sparkles:**Rajat**:sparkles: & I'm a Software Engineer.
 - 📫 ***How to reach me***: My [linkedin profile](https://www.linkedin.com/in/rjtsn19/) or contact me directly on this :e-mail: rjtsn1903@gmail.com.
 - 😄 **Pronouns:** What does it mean? :thinking:
 - ⚡ Fun fact: *I'm the Real* ***```Captain Jack Sparrow.```***
-- 📆 Commit Date: :six: **OCT** :two: :zero: :two: :zero:.
+- 📆 Commit Date: :one: :seven: **OCT** :two: :zero: :two: :zero:.
